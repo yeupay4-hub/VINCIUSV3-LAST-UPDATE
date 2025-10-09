@@ -81,7 +81,7 @@ obf — thay thế hằng (strings/ints) bằng các biểu thức đánh lừa.
 
 junk — chèn các cấu trúc rác (gen_jcode) vào module / function / class bodies.
 
-Quy trình obfuscation (tóm tắt bước)
+Quy trình obfuscation
 
 Đọc file nguồn và prefix bằng anti (đoạn code kiểm tra runtime ban đầu).
 
@@ -189,10 +189,9 @@ Liên hệ & thông tin tác giả
 
 Thông tin trong file:
 
-__ADMIN_: Cte Vcl
+- ADMIN: Cte Vcl
 
 Liên hệ: https://t.me/ctevclwar / https://www.facebook.com/ng.xau.k25
-(Chi tiết lấy từ hằng __VINICIUSV3__ trong mã). 
 
 viniciusv3
 
@@ -200,11 +199,9 @@ Mẫu README ngắn (copy / paste)
 # VINICIUS v3 — High Speed Obfuscator
 Một trình obfuscator Python multi-layer (marshal, base85, bz2, zlib, lzma) kèm anti-debug/anti-tamper, hide builtins, và junk code injection.
 
-## Cài đặt
+## Chạy chương trình
 python viniciusv3.py
 
 ## Sử dụng
-Nhập tên file, chọn tuỳ chọn anti/junk/hide. File output: viniciusv3-<tên file>.
+Nhập tên file, chọn tuỳ chọn anti/junk/hide. File output: viniciusv3-<tên file>.pypy
 
-## Lưu ý
-Giữ bản gốc chưa obfuscate để sửa lỗi. Sử dụng có trách nhiệm.
