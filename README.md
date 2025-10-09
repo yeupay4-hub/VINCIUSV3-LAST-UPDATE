@@ -185,17 +185,6 @@ Việc obfuscation không thay thế bảo vệ pháp lý (copyright, license).
 
 Người dùng chịu trách nhiệm về việc dùng công cụ phù hợp với pháp luật địa phương.
 
-Liên hệ & thông tin tác giả
-
-Thông tin trong file:
-
-- ADMIN: Cte Vcl
-
-Liên hệ: https://t.me/ctevclwar / https://www.facebook.com/ng.xau.k25
-
-viniciusv3
-
-Mẫu README ngắn (copy / paste)
 # VINICIUS v3 — High Speed Obfuscator
 Một trình obfuscator Python multi-layer (marshal, base85, bz2, zlib, lzma) kèm anti-debug/anti-tamper, hide builtins, và junk code injection.
 
@@ -204,4 +193,10 @@ python viniciusv3.py
 
 ## Sử dụng
 Nhập tên file, chọn tuỳ chọn anti/junk/hide. File output: viniciusv3-<tên file>.pypy
+Liên hệ & thông tin tác giả
 
+## Thông tin:
+
+- ADMIN: Cte Vcl
+
+- Liên hệ: https://t.me/ctevclwar / https://www.facebook.com/ng.xau.k25
