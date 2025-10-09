@@ -1,4 +1,4 @@
-Mô tả ngắn
+## Mô tả ngắn
 
 Vinicius v3 là một obfuscator/encoder Python mạnh mẽ, thiết kế để che giấu mã nguồn bằng nhiều tầng nén, mã hóa tùy chỉnh và các cơ chế bảo vệ thời chạy (anti-debug, anti-tamper, hide builtins, junk code). Công cụ hướng tới bảo vệ mã chạy trên môi trường Python và gây khó khăn cho việc reverse-engineering.
 
