@@ -1,4 +1,4 @@
-<img width="1924" height="1084" alt="1" src="https://github.com/user-attachments/assets/3941910d-5c93-41ce-8199-e46566828711" />
+<img width="1914" height="1076" alt="1" src="https://github.com/user-attachments/assets/7b638e2b-66d5-4464-9e2b-b2b4cfd789fd" />
 
 ## Mô tả ngắn
 
