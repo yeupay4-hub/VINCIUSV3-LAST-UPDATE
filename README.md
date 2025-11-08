@@ -1,3 +1,5 @@
+<img width="1924" height="1084" alt="1" src="https://github.com/user-attachments/assets/3941910d-5c93-41ce-8199-e46566828711" />
+
 ## Mô tả ngắn
 
 Vinicius v3 là một obfuscator/encoder Python mạnh mẽ, thiết kế để che giấu mã nguồn bằng nhiều tầng nén, mã hóa tùy chỉnh và các cơ chế bảo vệ thời chạy (anti-debug, anti-tamper, hide builtins, junk code). Công cụ hướng tới bảo vệ mã chạy trên môi trường Python và gây khó khăn cho việc reverse-engineering.
@@ -7,6 +9,8 @@ Tính năng chính
 🔐 Multi-layer protection: nhiều tầng mã hóa/nén (marshal, base85/b85, bz2, zlib, lzma).
 
 🛡️ Anti-Debug & Anti-Crack: kiểm tra debugger, kiểm tra kích thước / nội dung file, so sánh hằng cấu hình.
+
+✅ Anti-hooking -> bảo vệ khỏi cracking và requests debugging như http-toolkit
 
 🎭 Hide builtins: thay thế trực tiếp các gọi tới builtins bằng getattr(builtins, "...").
 
